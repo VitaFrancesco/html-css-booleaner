@@ -37,22 +37,15 @@ thead{
 th{ 
     text-align: left;
 }
+.cella{
+    width: 25%;
+}
 .dati-azzurri{
     background-color: aqua;
 } 
 .dati-bianchi{
     background-color: white;
 }
-/* table{
-    position: fixed;
-    width: 100%;
-}
-tr:first-child{
-    width: 25%;
-}
-tr:last-child{
-    width: 50%;
-} */
 h3{
     color: white;
 }
