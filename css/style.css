@@ -53,3 +53,20 @@ tr:first-child{
 tr:last-child{
     width: 50%;
 } */
+h3{
+    color: white;
+}
+h4{
+    color: gray;
+}
+.approfondimento{
+    height: 200px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.primo{
+    background-image: url('../img/monitor.jpg');
+}
+.secondo{
+    background-image: url('../img/graph.jpg');
+}
